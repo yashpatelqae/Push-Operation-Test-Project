@@ -21,7 +21,8 @@ Cypress Folder
 It's Data Driven Test.
 
 Report tool - Mocha reporter
-* npx cypress run --headed --spec (path of .js file) browser chrome
+* npx cypress run --headed --spec (path of .js) browser chrome
+  i.e. npx cypress run --headed --spec LoginTest.cy.js browser chrome
 * 3 reports added already in report folder
 
 
