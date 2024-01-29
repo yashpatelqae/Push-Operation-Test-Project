@@ -15,8 +15,8 @@ Test run
 
 Cypress Folder 
 * cypress : the root directory
-* cypress/e2e: contains test files 
-* cypress/fixtures: contains test data 
+* e2e: contains test files 
+* fixtures: contains test data 
 
 It's Data Driven Test.
 
