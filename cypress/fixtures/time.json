@@ -1,0 +1,21 @@
+[
+   {
+    "projectname" : "ASF - Phase 1",
+    "datefrom": "2021-01-01",
+    "dateto": "2023-12-31",
+    "act1": "Bug Fixes",
+    "t1": "10.50",
+    "act2": "Feature Development",
+    "t2": "0.00",
+    "act3": "Implementation",
+    "t3": "7.00" ,
+    "act4": "QA Testing",
+    "t4": "22.50",    
+    "act5": "Requirement Gathering",
+    "t5": "0.00",
+    "act6": "Support & Maintanence",
+    "t6": "0.00"
+   } 
+]
+
+  
