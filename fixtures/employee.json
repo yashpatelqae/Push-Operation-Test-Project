@@ -1,9 +1,0 @@
-[
-    {
-        "firstname": "Will",
-        "lastname": "Smith",
-        "expected":"Will  Smith",
-        "email": "willsmith@gmail.com"
-    }   
-   
-]
