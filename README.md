@@ -18,7 +18,7 @@ Cypress Folder
 * e2e: contains test files 
 * fixtures: contains test data 
 
-It's Data Driven Test.
+It's Data Driven Test. It's POM pattern driven.
 
 Report tool - Mocha reporter
 * npx cypress run --headed --spec (path of .js) browser chrome
